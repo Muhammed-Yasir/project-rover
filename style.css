@@ -1,0 +1,83 @@
+Conversation opened. 1 unread message.
+
+Skip to content
+Using Gmail with screen readers
+Enable desktop notifications for Gmail.
+   OK  No thanks
+1 of 883
+File - style.css
+Inbox
+
+muhammed yasir <yasircherukkan@gmail.com>
+Attachments
+9:04 PM (0 minutes ago)
+to me
+
+Thank you for using TrebEdit. 
+ One attachment
+  •  Scanned by Gmail
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+.rover-controls {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#command{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+#rover-position {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.travel-Log {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.travel-log h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.travel-log h3 {
+    list-style: none;
+    padding: 0;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+style.css
+Displaying style.css.
