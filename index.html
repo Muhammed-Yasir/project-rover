@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mission Mars</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="rover-controls">
+        <h1>ROVER CONTROLLER</h1>
+        <label for="roverCommands">Enter Rover Commands:</label>
+        <p>f=>move forward </p>
+        <p>b=>move backward</p>
+        <p>r=>turn right</p>
+        <p>l=>turn left</p>
+        
+        <button onclick="project()">Execute</button>
+    </div>
+    <div id="command">
+        <h4>Entered command:</h4>
+        <p id="newCommand"></p>
+    </div>
+    <div id="rover-position">
+        <p id="roverPosition">Current Rover Position: x=0, y=0</p>
+    </div>
+
+    <div class="travel-Log">
+        <h2>Travel Log</h2>
+        <h3 id="travelLogOutput">0,0</h3>
+        
+    </div>
+
+   
+    <script src="script.js"></script>
+</body>
+</html>
